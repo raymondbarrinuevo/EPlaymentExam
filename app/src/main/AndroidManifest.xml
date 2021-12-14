@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.EPlaymentExam">
         <activity
-            android:name=".MainActivity"
+            android:name=".mvvmsample.view.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.EPlaymentExam.NoActionBar">
